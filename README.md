@@ -1,2 +1,2 @@
-# Incident_imapact_project
+# Incident_impact_project
 Predict the Impact 
